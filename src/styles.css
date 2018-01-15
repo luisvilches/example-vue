@@ -1,0 +1,7 @@
+@import "bootstrap/dist/css/bootstrap.css";
+@import "bootstrap-vue/dist/bootstrap-vue.css";
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body,html{
+    font-family: 'Montserrat', sans-serif;
+}
